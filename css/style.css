@@ -13,11 +13,64 @@ body{
 }
 div.header{
 	width: 100%;
-	margin: auto;
+	margin: 1em auto 1em auto;
 	text-align: center;
-	background-color: #477fb8	;
+	background-color: #477fb8;
 	border-radius: 1em;
 	box-shadow: 0.0em 0.5em 0.3em #000000;
 	/*Gravatar image is md5 hash of email address*/
-	background: no-repeat #a3bfdc right url('http://www.gravatar.com/avatar/dd3b20b97363bb7a6b08ba87171304a3');
+	background: no-repeat #a3bfdc right url('http://www.gravatar.com/avatar/dd3b20b97363bb7a6b08ba87171304a3') ;
+}
+.navigation{
+	width: 100%;
+	margin: 0em auto 0em auto;
+	text-align: center;
+	border-radius: 1em;
+}
+.navigation ul{
+	list-style-type: none;
+	width: 100%;
+	font-size: 150%;
+	margin: 0px;
+	padding: 0px;
+}
+.navigation ul li{
+	display: inline;
+	box-shadow: 0.0em 0.2em 0.2em #000000;
+	border-radius: .5em;
+	padding: 0em .5em 0em .5em;
+	background-color: #a3bfdc;
+	margin: 0 1em 0 1em;
+}
+.navigation ul li a{
+	color: #000000;
+	text-decoration: none;
+}
+.navigation ul li a:hover{
+	color: #ffffff;
+}
+.navigation ul li:hover{
+	background-color: #477fb8;
+	color: #ffffff;
+}
+.icon {
+	display: inline;
+	border: none !important;
+	border-radius: .5em;
+	padding: 0em .5em 0em .5em;
+}
+.icon img{
+	border: thin solid;
+	border-radius: .5em;
+	vertical-align: middle;
+	height: 50px;
+	width:  50px;
+}
+.main{
+	border: solid;
+	width: 90%;
+	margin: 1em auto 1em auto;
+	border-radius: .5em;
+	background-color: #d6d3c0;	
+	padding: 0 5% 0 5%;
 }

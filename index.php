@@ -27,6 +27,33 @@
 			<h1>Welcome to Ethan Eldridge's Personal Website</h1>
 		</div>
 
+		<div class="navigation clearBoth left">
+			<ul>
+				<li><a href="" >About</a></li>
+				<li><a href="" >Projects</a></li>
+				<li><a href="" >Resume</a></li>
+				<li><a href="" >Contact me</a></li>
+				
+			</ul>
+		</div>
+
+		<div class="main clearBoth left">
+			<div class="left" >
+				<h2>About me...</h2>
+				<p>
+					This is where I would put a trophy. IF I HAD ONE Lorem ipsum jasdfjasdkfjaskdljf askjf askldj falksd jfalksd fjalkd jfla;sdjf ;lakjd flaksdj fakd fjaklsd fjakld fjakld fjakld fjalskd fjaklds fjaksd fjalksdjf alksdfjadklf jasdkf jasdkl fjasdlkfjad;lfkja;dlkfjadklfjadklfja
+				</p>
+			</div>
+			<div class="right"> 
+				<h2>Recent Activity</h2>
+				<ul>
+					<li class="icon"><a href="http://ethaneldridgecs.blogspot.com/"><img src="images/blogger.png" /></a></li>
+					<li class="icon"><a href="https://github.com/EJEHardenberg"><img src="images/github.png"></a></li>
+					<li class="icon"><a href="http://www.linkedin.com/profile/view?id=151414806"><img src="images/LinkedIn_logo.png" ></a></li>
+					<li class="icon"><a href="https://twitter.com/EthanJEldridge"><img src="images/twitter-bird-light-bgs.png" /></a></li>	
+				</ul>
+			</div>
+		</div>
 
 	</body>
 
