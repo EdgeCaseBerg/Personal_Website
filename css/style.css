@@ -59,12 +59,13 @@ div.header{
 	border-radius: .5em;
 	padding: 0em .5em 0em .5em;
 }
-.icon img{
+.icon img,.loader{
 	border: thin solid;
 	border-radius: .5em;
 	vertical-align: middle;
-	height: 50px;
-	width:  50px;
+	height: 40px;
+	width:  40px;
+	margin-bottom: .25em;
 }
 .main{
 	border: solid;
@@ -73,4 +74,35 @@ div.header{
 	border-radius: .5em;
 	background-color: #d6d3c0;	
 	padding: 0 5% 0 5%;
+}
+#leftContent{
+	width: 80%;
+}
+#rightContent{
+	width: 20%;
+}
+.social dl{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.social dt{
+	display: block;
+	margin: .5em 0 .5em 0;
+	padding-bottom: .25em;
+	text-align: center;
+}
+.social dt img:hover{
+	background-color: #FFFFFF;
+}
+.social dt a{
+	display: block;
+	width: 100%;
+	border-bottom: thin solid #477fb8;
+	border-bottom-right-radius: .5em;
+	border-bottom-left-radius: .5em;
+}
+
+.social dd{
+	font-size: 70%;
 }
