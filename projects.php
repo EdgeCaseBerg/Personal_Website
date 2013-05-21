@@ -29,28 +29,18 @@
 
 		<div class="navigation clearBoth left">
 			<ul>
-				<li><a href="" >About</a></li>
-				<li><a href="" >Projects</a></li>
-				<li><a href="" >Resume</a></li>
-				<li><a href="" >Contact me</a></li>
+				<li><a href="index.html" >About</a></li>
+				<li><a href="projects.php" >Projects</a></li>
+				<li><a href="resume.php" >Resume</a></li>
+				<li><a href="contact.php" >Contact me</a></li>
 				
 			</ul>
 		</div>
 
 		<div class="main clearBoth left">
 			<div class="left" id="leftContent">
-				<h2>About me...</h2>
-				<p>
-					I am a Computer Programmer. Graduated from The University of Vermont in 2013 with a Bachelor of Science in Computer Science (CS) with a minor in pure math. During my time at the university, I was the chapter president of the National Computer Science Honor Society<a href="http://upe.acm.org/">Upsilon Pi Epsilon</a>, inducting new members and hosting CS related discussions and events were my duties. In addition I was a leading member of the UVM's <A href="http://www.uvm.edu/~cscrew">CS Crew</a>, a student ran, student governed organization that contributes to UVM's great CS department.  I served as an executive during my last semester junior year and all throughout my senior year. Organizing project nights, providing a dialogue between the CS student's needs and the faculty, and creating new and inspiring projects, such as the <a href="http://www.youtube.com/watch?v=VwhGGChEUHg">WiiMote Whiteboard</a>.
-				</p>
-
-				<p>
-					I have been a web developer, a researcher, and a student. Computer Science has been my passion since middle school, and there's nothing better than creating an elegant algorithm to solve a particular problem. I am a published co-author with <a href="www.cs.uvm.edu/~eppstein/‎">Maggie Eppstein</a>, applying evolutionary techniques to survey data for marketing purposes. My passion in CS, and what I would like to go to graduate school for is Artificial Intelligence, Machine Learning, Data Mining, and language processing. I believe that these fields will become increasingly important as time goes on and plan on making my mark on them as soon as I can. To pay the bills in the meantime, I have worked as a Web Developer for both the <a href="http://www.vhfa.org">Vermont Housing and  Finance Agency</a> and <a href="http://www.brandthropology.com/">Brandthropology</a>, as well as my own freelance work. 
-				</p>
-
-				<p>
-					In my spare time I like to participate in events such as <a href="http://www.uvm.edu/~cems/?Page=news&storyID=14716&category=cems">HackVT</a>, and <a href="http://hackforchange.org/">Hack for Change</a>. Besides that, I enjoy playing the Piano, flute, guitar, and whatever musical instruments I can lay my hands on. In addition to music, I enjoy playing video games with friends, reading books by Douglas Hofstadter and other interesting people, and watching the World Cup of Soccer whenever it comes around every four years.
-				</p>
+				<h2>My Projects...</h2>
+				
 			</div>
 			<div class="right" id="rightContent"> 
 				<h2>Recent Activity</h2>
