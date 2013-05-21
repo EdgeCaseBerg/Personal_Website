@@ -106,3 +106,17 @@ div.header{
 .social dd{
 	font-size: 70%;
 }
+
+
+/* Projects Page Specific*/
+.projectsList dd{
+	display: block;
+	width: 90%;
+	box-shadow: 0em .2em 0.2em #477fb8;
+	border-left: thin solid #477fb8;
+	padding-bottom: .5em;
+}
+.projectsList dt{
+	font-weight: bolder;
+	margin-top: 1em;
+}
