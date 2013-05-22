@@ -120,3 +120,28 @@ div.header{
 	font-weight: bolder;
 	margin-top: 1em;
 }
+
+/* Resume Page Specific */
+.resumeList li{
+	list-style-type: none;
+	border-left: medium solid #477fb8;
+	border-bottom-left-radius: 0.5em;
+	border-top-left-radius: 0.5em;
+	padding-left: 1em;
+	margin-bottom: 1em; 
+}
+.resumeList dt{
+	font-weight: bold;
+}
+.languageTable{
+	margin-left: 2em;
+}
+.languageTable th{
+	padding-right: 2em;
+}
+
+/*Contact page specific */
+.contact textarea{
+	width: 60%;
+	height: 90px;
+}
